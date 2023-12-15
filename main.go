@@ -60,7 +60,7 @@ func main() {
 
 			// Reduce the alpha value (you can modify this to change opacity)
 			// the higher the number the more opaque the image will be
-			newAlpha8 := oldAlpha8 / 4
+			newAlpha8 := oldAlpha8 / 6
 
 			// Convert the alpha value back to the range 0 to 65535
 			newAlpha := uint16(newAlpha8) << 8
