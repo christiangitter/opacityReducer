@@ -1,4 +1,4 @@
-# Opacity Reducer
+# GOpacityReducer
 
 ## Requirements
 make sure you have GO installed [here](https://go.dev/dl/).<br>
